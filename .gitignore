@@ -1,10 +1,4 @@
-node_modules/
-.env
-.env.local
-secrets.txt
 .DS_Store
 Thumbs.db
-desktop.ini
-dist/
-build/
 *.log
+.vscode/
