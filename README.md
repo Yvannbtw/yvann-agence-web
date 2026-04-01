@@ -11,7 +11,7 @@ Hoba Christ Yvann — 1re Année Bachelor Dev. Web
 - Git & GitHub
 
 ## Site en ligne
-(lien à ajouter après activation de GitHub Pages)
+GitHub Pages : https://yvannbtw.github.io/yvann-agence-web
 
 ## Structure du projet
 - `index.html` — Page d'accueil avec hero et présentation
