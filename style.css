@@ -300,6 +300,8 @@ form .btn-principal {
   font-size: 0.9rem;
 }
 
+/* === FOOTER ET ANIMATIONS === */
+
 footer {
   background-color: var(--primaire);
   color: #999;
